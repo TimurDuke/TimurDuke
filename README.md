@@ -6,8 +6,6 @@ I'm a passionate Frontend Developer specializing in React JS, dedicated to build
 * 🌍  I'm based in South Korea, Incheon
 * ✉️  You can contact me at [kimtimur01@gmail.com](mailto:kimtimur01@gmail.com)
 
-<a href="https://www.github.com/TimurDuke" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TimurDuke?logo=github&style=for-the-badge&color=ef4444&labelColor=171717" /></a>
 ### Skills
 
 - **Frontend:**
