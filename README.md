@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kim Timur
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kim Timur
 =================================================================================================================================
 
 I'm a Frontend Developer
@@ -31,4 +31,4 @@ src="https://img.shields.io/github/followers/TimurDuke?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TimurDuke"><img src="https://github-readme-stats.vercel.app/api?username=TimurDuke&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="TimurDuke's GitHub stats" /></a>
+<a href="http://www.github.com/TimurDuke"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TimurDuke&stroke=ffffff&background=171717&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
