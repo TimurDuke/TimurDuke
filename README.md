@@ -1,8 +1,5 @@
-Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kim Timur
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Kim Timur
 =================================================================================================================================
-
-I'm a Frontend Developer
-------------------------
 
 I'm a passionate Frontend Developer specializing in React JS, dedicated to building dynamic and responsive web applications that provide an engaging user experience. With a keen eye for design and a strong foundation in JavaScript, I strive to bridge the gap between graphical design and technical implementation, bringing to life intuitive and scalable digital solutions.
 
